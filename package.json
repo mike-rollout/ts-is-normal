@@ -1,8 +1,12 @@
 {
   "name": "am-i-normal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tells you if you are normal",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mike-rollout/ts-is-normal.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
